@@ -25,3 +25,19 @@ It learns user preferences interactively — by asking questions about genres, l
 ---
 
 ## 🏗️ Folder Structure
+personalized-recommendation-chatbot/
+│
+├── data/ # Optional: datasets (CSV, JSON)
+│ └── sample_movie_data.csv
+│
+├── notebooks/
+│ └── Personalized_Recommender_Chatbot.ipynb
+│
+├── src/
+│ └── chatbot.py
+│
+├── requirements.txt
+├── README.md
+├── .gitignore
+└── LICENSE (optional)
+
