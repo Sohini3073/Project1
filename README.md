@@ -1,4 +1,4 @@
-# Project1
+# personalized-recommendation-chatbot
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/2721/2721290.png" width="100" alt="Chatbot Logo"/>
   <h1>🤖 Personalized Recommendation Chatbot</h1>
